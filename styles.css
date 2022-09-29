@@ -1,0 +1,16 @@
+.main{
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.form-control{
+    resize: none;
+    padding: 50px;
+}
+
+.container{
+   margin-top: 300px;
+}
