@@ -1,0 +1,35 @@
+html,body{
+    height: 100%;
+}
+body{
+   display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background:linear-gradient(rgb(223, 223, 132),rgb(188, 188, 214));
+  
+}
+.container{
+    background:linear-gradient(rgb(228, 152, 80) ,  rgb(154, 211, 81));
+    border: 2px groove black;
+    border-radius: 10px;
+    width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin:auto ;
+  z-index: 2;
+
+}
+.form-check-input{
+    font-weight: 400;
+}
+.form-label-email{
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-label{
+    margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
