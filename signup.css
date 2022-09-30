@@ -11,14 +11,15 @@ body{
 }
 .container{
     background:#A8DADC;
-    border: 2px groove black;
+    
     border-radius: 10px;
     width: 100%;
-  max-width: 350px;
+  max-width: 330px;
   padding: 20px;
   margin:auto ;
   z-index: 2;
-  height: 500px;
+  height: 520px;
+  box-shadow: 5px 3px rgb(102, 99, 99);
 
 }
 .form-check-input{
@@ -96,8 +97,11 @@ h5:after{
   color: white;
 }
 .foot{
-  margin-left: 50px;
+  margin-left: 60px;
+  margin-bottom: 20px;
 }
 .footLink{
-  color:rgb(214, 70, 70)
+  color:rgb(214, 70, 70);
+  margin-left: 5px;
+  
 }

@@ -11,7 +11,7 @@ body{
 }
 .container{
     background:#A8DADC;
-    border: 2px groove black;
+   box-shadow: 5px 3px rgb(102, 99, 99);
     border-radius: 10px;
     width: 100%;
   max-width: 330px;
@@ -99,8 +99,12 @@ body{
   color: white;
 }
 .foot{
-  margin-left: 50px;
+  margin-left: 45px;
+  margin-top: 15px;
 }
 .footLink{
-  color:rgb(233, 64, 64)
+
+  color:rgb(233, 64, 64);
+  margin-left: 3px;
+  
 }
